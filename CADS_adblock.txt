@@ -1,6 +1,6 @@
 ! Clear Advance Defence System (CADS) v8.1
 ! Formato: AdBlock / uBlock (preservado)
-! Generado: 2026-10-10 03:08
+! Generado: 2026-10-10 03:11
 ! Total reglas: 112222
 
 1000logos.net###ai_widget-4
